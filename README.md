@@ -1,4 +1,4 @@
 dotfiles
 ========
 
-an attempt at gathering my dotfile preferences
+A first attempt at gathering my dotfile preferences
