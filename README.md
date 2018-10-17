@@ -3,6 +3,8 @@ dotfiles
 
 A first attempt at gathering my dotfile preferences. This is off to a rather slow start.
 
+Due to a lack of time, I'm ignoring the below for now and putting together a quick-and-dirty set of essentials to transfer elsewhere.
+
 To do list:
 
 1.	Actually finish looking at other people's dotfiles to determine what I want to use.
