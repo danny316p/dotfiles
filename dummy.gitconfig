@@ -1,0 +1,25 @@
+[user]
+	email = NULL
+	name = NULL
+[alias]
+	lg = log --decorate=full --graph --stat
+	st = status --untracked-files=no
+	la = "!git config -l | grep alias | cut -c 7-"
+[difftool]
+        prompt = false
+
+[diff "odt"]
+        textconv=odt2txt
+
+[diff "odf"]
+        textconv=odt2txt
+
+[diff "oodiff"]
+        command=git-oodiff
+
+[show "odt"]
+        textconv=odt2txt
+
+[show "odf"]
+        textconv=odt2txt
+
