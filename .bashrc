@@ -212,6 +212,7 @@ cd_func ()
 }
  
 
+ALIAS_LYNX_PATH=$HOME/github/alias_lynx;
 if [ -f ~/github/alias_lynx/lynx_aliases ]; then
     . ~/github/alias_lynx/lynx_aliases
 fi
